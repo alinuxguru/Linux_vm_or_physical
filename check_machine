@@ -1,0 +1,21 @@
+Command to find 
+
+dmidecode -t1
+  it shows vmware strings if VM
+  it shows H/W details if physical
+  
+  example:
+  
+  VM:
+  ===
+  System Information
+	Manufacturer: VMware, Inc.
+	Product Name: VMware Virtual Platform
+	Version: None
+  
+  Physical:
+  ========
+  System Information
+	Manufacturer: HP
+	Product Name: ProLiant DL385 G7
+	Version: Not Specified
